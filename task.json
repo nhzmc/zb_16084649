@@ -1,0 +1,7 @@
+{
+    "info": {
+        "description": "python 实现一段代码 定时改变本机IP，使得远方服务器(公网服务器，如新浪网页)认为不断有新机器访问该主机(其实是同一台电脑一个固定IP而已)。提供源码。",
+        "url": "https://zb.oschina.net/reward/detail.html?id=16084649"
+    },
+    "status": 0
+}
